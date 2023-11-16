@@ -256,7 +256,7 @@ footer{
     position: relative;
     width: 100%;
     height: 400px;
-    background-color: darkviolet;
+    background-color: gray;
     display: flex;
     flex-direction: column;
     align-items: center;
